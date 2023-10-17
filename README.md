@@ -6,7 +6,8 @@ EX2
 
 
 
-![image](https://github.com/younesmoujib/Tp_Hibernate/assets/132173844/5e801b93-4aed-470d-87e8-9e33952d845d)
+
+![image](https://github.com/younesmoujib/Tphibernate/assets/132173844/c09b7e5d-d46e-498d-930a-5168870d11fb)
 
 
 
@@ -16,6 +17,7 @@ EX3
 
 
 
-![image](https://github.com/younesmoujib/Tp_Hibernate/assets/132173844/3360584e-85dd-4d3b-898a-d0a5c2d59285)
 
+
+![Capture d’écran 2023-10-17 220128](https://github.com/younesmoujib/Tphibernate/assets/132173844/81f6efdb-d778-4aaa-b12f-09e493fc900f)
 
